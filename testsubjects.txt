@@ -1,0 +1,87 @@
+Auth
+- BasicSingleLogin
+- HashPassword+MatchPassword
+
+Parsing
+- RegexGroups
+- Spliterate
+- WwwForm (ExternalDataService)
+- XML
+
+Files
+- FindFile
+- WatchDirectory (?)
+- FileServer
+- FilesystemBrowser
+- FilesystemIndexer
+- Tarballer
+
+Floooper
+- Module
+- Proceed/Return
+- ReachIn/ReachOut
+- Schedule
+
+Reflection
+- NewService
+- ReloadService
+- SetBranch
+- SetSetting
+- FlowView/Anchor
+- ModuleView
+- SettingsView
+- TypelistView
+
+Async
+- Fork/Recur (though how?)
+
+Imaging
+- Tile
+- Scale
+
+Path
+- Dir/SiteSubsection
+
+Networking
+- HTTP/HttpClient
+- Credentials
+- SendMail (but how?)
+- UdpAdvertiser/UdpQuerier
+
+Formatting
+- Formatter
+- Write
+- Template
+- Translation
+
+Databases
+- Sqlite
+- Connector (but how?)
+- DataReader
+- DataWriter
+- Transaction (but how?)
+
+Validation
+- Check-FailCheck
+- Equals
+- Matches
+- DecimalField
+- EmailField
+- NameField
+- NumberField
+- TextField
+- ValueField
+
+Caching
+- AnonymousCache
+- Cache
+- CacheList
+- CacheListClear
+- CacheListItem
+- ConcatCache
+- ContextCache
+
+Lookups
+- LookupWriter
+- LookupReader
+- LookupExterminator
